@@ -1,3 +1,3 @@
 services:
   freenom:
-    build: .
+    image: luolongfei/freenom:koyeb
